@@ -1,0 +1,25 @@
+.weather {
+  background-color: rgb(213, 236, 244);
+  width: 800px;
+  height: 800px;
+  overflow: scroll;
+  padding-left: 10px;
+  align-content: center;
+}
+.weatherUpdates {
+  text-align: center;
+}
+.dayTemp {
+  background-color: aliceblue;
+}
+.temp {
+  margin-top: 0;
+}
+.day {
+  margin-bottom: 0;
+}
+.Element {
+  border: 3px dotted salmon;
+  width: 811px;
+  height: 800px;
+}

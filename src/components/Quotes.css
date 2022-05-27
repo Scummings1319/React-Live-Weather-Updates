@@ -1,0 +1,15 @@
+.DailyQuotes {
+  text-align: center;
+}
+.quotes {
+  background-color: rgb(213, 236, 244);
+  width: 800px;
+  height: 300px;
+  overflow: scroll;
+  border: 3px dotted salmon;
+}
+.body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
